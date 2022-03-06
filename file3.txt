@@ -1,0 +1,2 @@
+
+This is file3.txt and it is created after 1st commit in branch a and before 2nd commit in master branch
