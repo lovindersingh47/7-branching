@@ -1,1 +1,2 @@
 This is file1.txt and right now I am before initial commit in master branch
+I am in branch a and and i am making these changes before 1st commit in branch a

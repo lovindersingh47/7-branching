@@ -1,0 +1,2 @@
+
+This is file2.txt and I am in branch a and before 1st commit in branch a
