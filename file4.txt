@@ -1,0 +1,2 @@
+This is file4.txt and it is created before first commit of branch b and now 
+inside branch b
